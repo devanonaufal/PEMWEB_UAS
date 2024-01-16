@@ -10,7 +10,7 @@
 
 ###
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/m8r7jQUexzw/0.jpg)](https://www.youtube.com/watch?v=m8r7jQUexzw)
+![VIDIO UAS PEMROGRAMAN WEBSITE SEKOLAH](https://www.youtube.com/embed/m8r7jQUexzw)
 
 ###
 <h2 align="left">Social Media</h2>
