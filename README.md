@@ -10,7 +10,7 @@
 
 ###
 
-https://github.com/devanonaufal/PEMWEB_UAS/assets/60253572/c1c2f122-cbca-4860-99ad-d8ae41b223af
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=m8r7jQUexzw)
 
 ###
 <h2 align="left">Social Media</h2>
