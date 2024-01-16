@@ -10,7 +10,7 @@
 
 ###
 
-[![UAS PEMWEB](https://img.youtube.com/vi/xLQ6DfbEOvU.jpg)](https://www.youtube.com/watch?v=xLQ6DfbEOvU)
+[![UAS PEMWEB](https://img.youtube.com/vi/xLQ6DfbEOvU/0.jpg)](https://www.youtube.com/watch?v=xLQ6DfbEOvU)
 
 
 ###
