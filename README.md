@@ -9,8 +9,9 @@
 </div>
 
 ###
+<h4 align="left">KLIK VIDIO DIBAWAH INI 👇👇👇</h4>
 
-[![UAS PEMWEB](https://img.youtube.com/vi/xLQ6DfbEOvU/0.jpg)](https://www.youtube.com/watch?v=xLQ6DfbEOvU)
+[![UAS PEMWEB](https://img.youtube.com/vi/xLQ6DfbEOvU/hqdefault.jpg)](https://www.youtube.com/embed/xLQ6DfbEOvU)
 
 
 ###
